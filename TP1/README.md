@@ -9,10 +9,11 @@
 ## Resumo
 Este trabalho apresenta uma expressão regular que descreve **todas as cadeias binárias que não contêm a substring `011`**.
 
-A lógica é simples:
+Partindo da logica onde;
 - As cadeias podem ser compostas apenas pelos dígitos `0` e `1`.
 - É proibido que, em qualquer posição, apareça a sequência `011`.
-- Foi também criado um script em Python (`.py`) para testar a expressão regular.
+
+Foi também criado um script em Python (`.py`) para testar a expressão regular.
 
 ## Lista de resultados
 - Ficheiro com a expressão pedida
