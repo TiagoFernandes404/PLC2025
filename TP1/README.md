@@ -16,6 +16,10 @@ A lógica é simples:
 
 ## Lista de resultados
 - Ficheiro com a expressão pedida
-- [TP1.txt](TP1.txt)
+[TP1.txt](TP1.txt)
 - Ficheiro de codigo Python
-- [TP1.py](TP1.py)
+[TP1.py](TP1.py)
+
+  ## Solução
+```regex
+^(?!.*011)[01]*$
