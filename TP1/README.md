@@ -15,6 +15,7 @@ A lógica é simples:
 - Foi também criado um script em Python (`.py`) para testar a expressão regular.
 
 ## Lista de resultados
-
-- [TP1.py](TP1.py)
+- Ficheiro com a expressão pedida
 - [TP1.txt](TP1.txt)
+- Ficheiro de codigo Python
+- [TP1.py](TP1.py)
