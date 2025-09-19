@@ -3,7 +3,7 @@
 ## Autor
 - Nome: Tiago José Fernandes 
 - Numero: A98983
-- Foto: ![Foto](inserir_aqui_link_ou_ficheiro_da_tua_foto)
+- Foto:  - <img src="fotografia.jpg" alt="Foto" width="120"/>
 
 ## Resumo
 Este trabalho apresenta uma expressão regular que descreve **todas as cadeias binárias que não contêm a substring `011`.
