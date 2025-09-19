@@ -15,5 +15,6 @@ A lógica é simples:
 - Foi também criado um script em Python (`.py`) para testar a expressão regular.
 
 ## Lista de resultados
-```regex
-^(?!.*011)[01]*$
+
+- [TP1.py](TP1.py)
+- [TP1.txt](TP1.txt)
