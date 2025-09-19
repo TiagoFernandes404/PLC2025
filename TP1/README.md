@@ -14,6 +14,6 @@ A lógica é simples:
 - É proibido que, em qualquer posição, apareça a sequência `011`.
 - Foi também criado um script em Python (`.py`) para testar a expressão regular.
 
-## Expressão Regular (Final)
+## Lista de resultados
 ```regex
 ^(?!.*011)[01]*$
