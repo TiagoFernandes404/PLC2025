@@ -3,7 +3,8 @@
 ## Autor
 - Nome: Tiago José Fernandes 
 - Numero: A98983
-- Foto:  - <img width="180" height="180" alt="Fotografia" src="https://github.com/user-attachments/assets/e18badb7-9116-4655-af0c-2739ae2570ce" />
+- Foto:
+- - <img width="180" height="180" alt="Fotografia" src="https://github.com/user-attachments/assets/e18badb7-9116-4655-af0c-2739ae2570ce" />
 
 
 ## Resumo
