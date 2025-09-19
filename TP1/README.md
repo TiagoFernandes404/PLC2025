@@ -20,6 +20,6 @@ A lógica é simples:
 - Ficheiro de codigo Python
 [TP1.py](TP1.py)
 
-  ## Solução
+## Solução
 ```regex
 ^(?!.*011)[01]*$
